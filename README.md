@@ -9,3 +9,6 @@ Creation of insightful visualizations such as histograms and line plots to analy
 Utilization of pandas, matplotlib, and numpy libraries for data processing and visualization.
 
 ![image](https://github.com/nadahamdy217/PRODIGY_DS_01/assets/115176121/b717654a-b912-428c-bf8b-82169d6e5b3c)
+
+![image](https://github.com/nadahamdy217/PRODIGY_DS_01/assets/115176121/aae9c763-31b5-472f-b78b-1fd9edd0f275)
+
