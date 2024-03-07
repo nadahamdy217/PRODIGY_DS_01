@@ -7,3 +7,5 @@ Key Features:
 Data exploration and manipulation to extract meaningful insights.
 Creation of insightful visualizations such as histograms and line plots to analyze population growth trends over time.
 Utilization of pandas, matplotlib, and numpy libraries for data processing and visualization.
+
+![image](https://github.com/nadahamdy217/PRODIGY_DS_01/assets/115176121/b717654a-b912-428c-bf8b-82169d6e5b3c)
